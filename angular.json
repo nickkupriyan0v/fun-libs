@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "my-lib": {
+    "@nickkupriyanov/my-lib": {
       "projectType": "library",
       "root": "projects/my-lib",
       "sourceRoot": "projects/my-lib/src",
