@@ -18,7 +18,7 @@ jobs:
         run: npm ci && npm run build
 
       - name: Publish package on NPM 📦
-        run:
+        run: |
           cd dist/my-lib
           npm publish --access public
         env:
